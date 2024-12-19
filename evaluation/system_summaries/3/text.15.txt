@@ -1,0 +1,4 @@
+the national security agency and the fbi are siphoning personal data from the main computer servers of nine major u.s. internet firms, the washington post and the london-based guardian reported thursday night.
+under watch from the national security agency and the fbi, internet traffic of people outside the usa is being closely monitored by silicon valley internet giants in a massive data-snooping agreement.
+the agencies are grabbing data from the servers of nine u.s. internet companies including microsoft, yahoo, google, facebook, paltalk, aol, skype, youtube and apple, according to the documents.
+the post writes that the agencies are "extracting audio, video, photographs, e-mails, documents and connection logs that enable analysts to track a person's movements and contacts over time."
